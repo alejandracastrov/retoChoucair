@@ -1,0 +1,63 @@
+
+W
+java:S2209?"5Change this instance-reference to a static reference.(Ó³ê°úÿÿÿÿ8‚©úóá.
+R
+java:S2209P"5Change this instance-reference to a static reference.(¯”é¯8’»€ßá.
+W
+java:S2209E"5Change this instance-reference to a static reference.(×‹¬çıÿÿÿÿ8Ÿşßôá.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ı?8‚©úóá.
+	java:S116"cRename this field "version_operative_system" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëëë8’»€ßá.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ı?8‚©úóá.
+R
+java:S2209K"5Change this instance-reference to a static reference.(ÖÓ§×8Š„šùá.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡Ï‚øÿÿÿÿ8¶İ†àá.
+	java:S116"`Rename this field "password_confirmation" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Úïşşÿÿÿÿ8’»€ßá.
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·íğÒúÿÿÿÿ8ş€‹àá.
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏûÎŒ8‚©úóá.
+W
+java:S2209J"5Change this instance-reference to a static reference.(›ìó´üÿÿÿÿ8Ù‡ãøá.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ı?8‚©úóá.
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏûÎŒ8‚©úóá.
+S
+java:S1128"6Remove this unused import 'model.PersonalInformation'.(Êè¥Ü8±Ê¹ôá.
+W
+java:S2209G"5Change this instance-reference to a static reference.(·æ µşÿÿÿÿ8¶İ†àá.
+Q
+java:S2209M"5Change this instance-reference to a static reference.(²õß;8¶İ†àá.
+j	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏûÎŒ8‚©úóá.
+W
+java:S2209O"5Change this instance-reference to a static reference.(¶—ğÕüÿÿÿÿ8’»€ßá.
+R
+java:S2209I"5Change this instance-reference to a static reference.(õ¼’ç8øïãõá.
+v	java:S116"URename this field "year_birth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙíÈùÿÿÿÿ8’»€ßá.
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏûÎŒ8‚©úóá.
+u	java:S116"TRename this field "day_birth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öªœÂşÿÿÿÿ8’»€ßá.
+R
+java:S2209@"5Change this instance-reference to a static reference.(‰¬Ëø8‚©úóá.
+W
+java:S2209D"5Change this instance-reference to a static reference.(ÁÍ¾€ûÿÿÿÿ8Ÿşßôá.
+z	java:S116"YRename this field "month_of_birth" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÕº´üÿÿÿÿ8’»€ßá.
+R
+java:S2209N"5Change this instance-reference to a static reference.(ÂÎéÀ8¶İ†àá.
+W
+java:S2209C"5Change this instance-reference to a static reference.(ıéµëøÿÿÿÿ8’»€ßá.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ı?8‚©úóá.
+Y	java:S1072"=Method has 11 parameters, which is greater than 7 authorized.(ÏûÎŒ8‚©úóá.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ı?8‚©úóá.
+R
+java:S2209A"5Change this instance-reference to a static reference.(º¥·é8¶İ†àá.
+|	java:S116"[Rename this field "operative_system" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â×–ßùÿÿÿÿ8’»€ßá.
+]	java:S107"BConstructor has 11 parameters, which is greater than 7 authorized.(ø´ı?8‚©úóá.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ı?8‚©úóá.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡Ï‚øÿÿÿÿ8¶İ†àá.
+p	java:S116"TRename this field "last_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šø´¯8’»€ßá.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ı?8‚©úóá.
+R
+java:S2209Q"5Change this instance-reference to a static reference.(Â­ÕÎ8ŠƒÆôá.
+W
+java:S2209B"5Change this instance-reference to a static reference.(ôÒŒ³úÿÿÿÿ8’»€ßá.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8±Ê¹ôá.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‡Ï‚øÿÿÿÿ8¶İ†àá.
+R
+java:S2209F"5Change this instance-reference to a static reference.(Ü¾øŒ8’»€ßá.
